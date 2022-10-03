@@ -1,5 +1,5 @@
 <template>
   <div>
-   <h1>Welcome to the About</h1>
+    Permission Denied
   </div>
 </template>
