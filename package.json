@@ -5,10 +5,14 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "test": "vitest --environment jsdom"
   },
   "devDependencies": {
+    "@intlify/nuxt3": "0.2.4",
+    "@nuxt/test-utils-edge": "3.0.0-rc.12-27746784.92ff066",
+    "jsdom": "^20.0.1",
     "nuxt": "3.0.0-rc.11",
-    "@intlify/nuxt3": "0.2.4"
+    "vitest": "^0.23.4"
   }
 }

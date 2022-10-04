@@ -1,5 +1,5 @@
 <template>
   <div>
-    Unauthenticated
+    <h1>Header</h1>
   </div>
 </template>

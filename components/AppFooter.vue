@@ -1,5 +1,5 @@
 <template>
   <div>
-    Permission Denied
+    <h1>Footer</h1>
   </div>
 </template>
