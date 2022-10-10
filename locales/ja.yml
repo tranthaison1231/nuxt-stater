@@ -5,7 +5,7 @@ components:
     theme: テーマ
     change_theme: テーマを変更
 pages:
-  '404':
+  "404":
     title: ページが見つかりません
   index:
     title: nuxt 3[]素晴らしい[]スターター
